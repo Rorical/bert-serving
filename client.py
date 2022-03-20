@@ -1,4 +1,3 @@
-from tkinter.tix import Tree
 import zmq
 import msgpack
 import uuid
